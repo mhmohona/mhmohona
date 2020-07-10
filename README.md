@@ -1,4 +1,4 @@
-## Hi there! Peace be upon you. 👋
+## Peace be upon you. Welcome to my GitHub! 👋 
 
 I am **Mahfuza**, it's an Arabic word which means the protected one; you can also call me **Mohona**, whatever you find easier to pronounce! :ok_woman::smiley: 
 
