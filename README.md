@@ -34,5 +34,6 @@ I am **Mahfuza**, it's an Arabic word which means the protected one; you can als
 
 ![DifficultLimpingBubblefish-small](https://user-images.githubusercontent.com/14244685/87203964-90470080-c325-11ea-97b6-2da5a6e0ddbb.gif)
 
+> Reason I chose programming as my career as I enjoy coding - facing problems, finding it's solution, implementing; the whole process is so satisfying! And I chose to ML because it is so fascinating how in different ways AI, ML is making our life easier, changing our life in better way. 
 
 
