@@ -16,7 +16,7 @@ I am **Mahfuza**, it's an Arabic word which means the protected one; you can als
 -->
 
 - :computer: I like to speak in **Python** ![python](https://user-images.githubusercontent.com/14244685/87302738-c22db200-c533-11ea-8eff-98f5cb8b39df.jpg)
-- 🔭 I’m currently working on **Machine learning** and **Natural Language Processing** :slot_machine:
+- 🔭 I’m currently working on **Machine learning** and **Natural Language Processing** :robot:
 - 🌱 I’m currently learning **Microsoft Azure Machine Learning** ![azure](https://user-images.githubusercontent.com/14244685/87303432-fd7cb080-c534-11ea-8788-5531ae0ad480.jpg)
 - 👯 I’m looking to collaborate on **ML related open source projects** ![os](https://user-images.githubusercontent.com/14244685/87303852-a4f9e300-c535-11ea-90b1-82e213193b15.png)
 - 🤔 I’m looking for help with **Microsoft Azure** ![azure](https://user-images.githubusercontent.com/14244685/87302736-c22db200-c533-11ea-9ed2-f7e6b310b4a7.jpg)
