@@ -20,9 +20,10 @@ I am **Mahfuza**, it's an Arabic word which means the protected one; you can als
 - 🌱 I’m currently learning **Microsoft Azure Machine Learning** ![azure](https://user-images.githubusercontent.com/14244685/87303432-fd7cb080-c534-11ea-8788-5531ae0ad480.jpg)
 - 👯 I’m looking to collaborate on **ML related open source projects** ![os](https://user-images.githubusercontent.com/14244685/87303852-a4f9e300-c535-11ea-90b1-82e213193b15.png)
 - 🤔 I’m looking for help with **Microsoft Azure** ![azure](https://user-images.githubusercontent.com/14244685/87302736-c22db200-c533-11ea-9ed2-f7e6b310b4a7.jpg)
-- 💬 Ask me about **Microsoft technologies** 
+- 💬 Ask me about **Microsoft technologies** ![microsoft](https://user-images.githubusercontent.com/14244685/87302731-bfcb5800-c533-11ea-8546-8eace4111866.jpg)
 - ⚡ Fun fact: **I don't Google, I Bing** ![bing](https://user-images.githubusercontent.com/14244685/87302740-c2c64880-c533-11ea-85b8-75a7ea80a3cd.jpg)
-- 📫 Community I am majorly involved with **Microsoft Technical Community - Bangladesh** ![microsoft](https://user-images.githubusercontent.com/14244685/87302731-bfcb5800-c533-11ea-8546-8eace4111866.jpg)
+- 📫 Community I am majorly involved with: **[Microsoft Technical Community - Bangladesh](https://www.facebook.com/groups/techcom.bd
+)** 
 
 
 <!--
