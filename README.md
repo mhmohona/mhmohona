@@ -2,6 +2,7 @@
 
 I am **Mahfuza**, it's an Arabic word which means the protected one; you can also call me **Mohona**, whatever you find easier to pronounce! :ok_woman::smiley: 
 
+<!--
 
 :octocat: [Blog](https://mhmohona.github.io/)
 &nbsp;
@@ -11,7 +12,7 @@ I am **Mahfuza**, it's an Arabic word which means the protected one; you can als
 
 
 
-<!--
+
 **mhmohona/mhmohona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
