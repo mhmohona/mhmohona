@@ -2,11 +2,12 @@
 
 I am **Mahfuza**, it's an Arabic word which means the protected one; you can also call me **Mohona**, whatever you find easier to pronounce! :ok_woman::smiley: 
 
-<!--
+
 
 :octocat: [Blog](https://mhmohona.github.io/)
 &nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mhmohona)
+<!--
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/mhmohona)
 
