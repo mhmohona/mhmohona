@@ -1,21 +1,20 @@
-## Peace be upon you. Welcome to my GitHub! 👋 
+## Peace be upon you. Welcome to my GitHub profile! 👋 
 
-I am **Mahfuza**, it's an Arabic word which means the protected one; you can also call me **Mohona**, whatever you find easier to pronounce! :ok_woman::smiley: 
+I am **Mahfuza**.
 
 
 
 :octocat: [Blog](https://mhmohona.github.io/)
 &nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mhmohona)
+
+
 <!--
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/mhmohona)
 
-
-
-
 **mhmohona/mhmohona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 - :computer: I like to speak in **Python** ![python](https://user-images.githubusercontent.com/14244685/87302738-c22db200-c533-11ea-8eff-98f5cb8b39df.jpg)
 - 🔭 I’m currently working on **Machine learning** and **Natural Language Processing** :robot:
@@ -27,11 +26,12 @@ I am **Mahfuza**, it's an Arabic word which means the protected one; you can als
 - 📫 Community I am majorly involved with: **[Microsoft Technical Community - Bangladesh](https://www.facebook.com/groups/techcom.bd
 )** 
 
+-->
 
 <!--
 - 😄 My fav: 
 
--->
+
 
 ----
 
@@ -39,4 +39,4 @@ I am **Mahfuza**, it's an Arabic word which means the protected one; you can als
 
 > Reason I chose programming as my career as I enjoy coding - facing problems, finding it's solution, implementing; the whole process is so satisfying! And I chose to ML because it is so fascinating how in different ways AI, ML is making our life easier, changing our life in better way. 
 
-
+-->
