@@ -4,7 +4,7 @@ I am **Mahfuza**.
 
 
 
-:octocat: [Blog](https://mhmohona.github.io/)
+:octocat: [Blog](https://medium.com/@mhmohona)
 &nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mhmohona)
 
